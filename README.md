@@ -9,6 +9,10 @@ This repository contains beginner-level C# code as part of my journey to become 
 - Loops and Conditions
 - Arrays
 - Object-Oriented Programming (OOP)
+- Data Structures and Algorithms 
+- Database 
+- HTML, CSS
+- Java Script 
 - ASP.NET (Coming Soon)
 
 ## Contact
